@@ -1,0 +1,4 @@
+#!/bin/bash
+#This script display the date and who’s logged on
+date
+who
